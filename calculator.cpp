@@ -57,6 +57,7 @@ LRESULT CALLBACK WndProc(HWND hwnd, UINT Message, WPARAM wParam, LPARAM lParam) 
 					::MessageBox(hwnd, t, "Result",MB_OK);
 					break;
 			}
+			
 			break;
 		}
 
